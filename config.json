@@ -1,0 +1,9 @@
+{
+    "webServer":{
+        "http":{"port":8190}
+    },
+    "minZUrl":"http://localhost:8191",
+    "minZAuthToken":"g_geop.A12.admin,_",
+    "timeZone":"America/Santiago",
+    "ineAPIKey":"411d6e4524519ba8f2aad2fbf0e0c669035d9cac"
+}
