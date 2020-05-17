@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/otrojota/geop-fipa-fan-2019#readme",
   "dependencies": {
-    "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git"
+    "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git",
+    "moment-timezone": "^0.5.29"
   }
 }
