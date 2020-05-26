@@ -2,9 +2,10 @@
     "webServer":{
         "http":{"port":8190}
     },
-    "minZUrl":"http://localhost:8191",
-    "minZUrl_bak":"http://www.pomeo.cl:8093/minz",
-    "bcnUrl":"http://www.pomeo.cl:8083/bcn",
+    "minZUrl_local":"http://localhost:8191",
+    "minZUrl_prod":"http://minz:8191",
+    "minZUrl":"http://geoos.org:8083/minz",
+    "bcnUrl":"http://bcn:8188",
     "minZAuthToken":"g_geop.A12.admin,_",
     "timeZone":"America/Santiago",
     "ineAPIKey":"411d6e4524519ba8f2aad2fbf0e0c669035d9cac"
