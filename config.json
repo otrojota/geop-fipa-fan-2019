@@ -3,8 +3,8 @@
         "http":{"port":8190}
     },
     "minZUrl_local":"http://localhost:8191",
-    "minZUrl_prod":"http://minz:8191",
-    "minZUrl":"http://geoos.org:8083/minz",
+    "minZUrl":"http://minz:8191",
+    "minZUrl_geoos":"https://provider.geoos.org/minz",
     "bcnUrl":"http://bcn:8188",
     "minZAuthToken":"g_geop.A12.admin,_",
     "timeZone":"America/Santiago",
