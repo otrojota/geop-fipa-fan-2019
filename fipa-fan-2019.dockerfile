@@ -1,5 +1,5 @@
-# docker build -f fipa-fan-2019.dockerfile -t otrojota/geoportal:fipa-fan-2019-0.16 .
-# docker push otrojota/geoportal:fipa-fan-2019-0.16
+# docker build -f fipa-fan-2019.dockerfile -t otrojota/geoportal:fipa-fan-2019-0.17 .
+# docker push otrojota/geoportal:fipa-fan-2019-0.17
 #
 FROM otrojota/geoportal:gdal-nodejs
 WORKDIR /opt/geoportal/geop-servimet
